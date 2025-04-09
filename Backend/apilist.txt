@@ -1,0 +1,25 @@
+By Default all api are using Post method if any use other it is mentioned 
+Users Api List :
+Save user : /api/users/save_user   mobile , email , 
+Login : /api/users/login
+
+
+
+
+
+
+Company Api List  :
+Save Company : /api/companies/save_company
+Login Company : /api/companies/login_company
+
+Jobs Api : 
+Create Job by Company: /api/jobs/save_job Done
+
+
+
+
+Apply Job By User : /api/jobs/save_applied_job Done
+Find all Job : /api/jobs/find_all  get method Done
+Find Applied Job by User : /api/jobs/find_applied_jobs_user Done
+Find Job by Id or Company : /api/jobs/find_job_by_data Done
+
